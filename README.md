@@ -202,3 +202,4 @@ systemctl --user daemon-reload
 systemctl --user enable display-switch.service
 systemctl --user start display-switch.service
 ```
+ 
